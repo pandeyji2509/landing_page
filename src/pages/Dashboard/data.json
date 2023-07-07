@@ -1,0 +1,3 @@
+{
+    "result": "[{\"model\": \"Backend.category\", \"pk\": 1, \"fields\": {\"category\": \"Gravitas\"}}, {\"model\": \"Backend.category\", \"pk\": 2, \"fields\": {\"category\": \"Gravitas\"}}, {\"model\": \"Backend.category\", \"pk\": 3, \"fields\": {\"category\": \"Gravitas\"}}, {\"model\": \"Backend.category\", \"pk\": 4, \"fields\": {\"category\": \"Gravitas\"}}, {\"model\": \"Backend.category\", \"pk\": 5, \"fields\": {\"category\": \"Gravitas\"}}, {\"model\": \"Backend.category\", \"pk\": 6, \"fields\": {\"category\": \"hello\"}}, {\"model\": \"Backend.category\", \"pk\": 7, \"fields\": {\"category\": \"hello\"}}, {\"model\": \"Backend.category\", \"pk\": 8, \"fields\": {\"category\": \"Shans\"}}]"
+}
